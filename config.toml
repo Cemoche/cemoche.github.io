@@ -1,0 +1,5 @@
+baseURL = 'https://cemoche.github.io/'
+languageCode = 'fr-fr'
+title = 'My personal website'
+publishDir = 'docs'
+theme = 'm10c'
