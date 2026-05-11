@@ -17,7 +17,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Cem 👋",
   profile: "/killua-double-kalash.jpg",
   description:
-    "Bonjour, I'm a *26 years old french full-stack developer* with over *3 years* of web experience. I am mainly working with *Laravel and Vue*. If I'm not coding, I'm probably playing video games. Feel free to contact me for any project or just to say hi !",
+    "Bonjour, I'm a *28 years old french full-stack developer* with over *10 years* of web experience. I design and deploy logistics automation systems, real-time pipelines, and fullstack applications. If I'm not coding, I'm probably playing video games. Feel free to contact me for any project or just to say hi !",
   socials: [
     {
       label: "Github",
