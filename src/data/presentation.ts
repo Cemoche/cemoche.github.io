@@ -13,7 +13,7 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "cem.yld.pro@gmail.com",
+  mail: "hello@cem-dev.com",
   title: "Hi, I’m Cem 👋",
   profile: "/killua-double-kalash.jpg",
   description:
